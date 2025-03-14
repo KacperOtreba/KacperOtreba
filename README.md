@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing my programming skills.<br>🌱 I’m currently learning c++, php.<br>⚡ Love games, motorcycles and dog.
+🔭 I’m currently working on developing my programming skills.<br>🌱 I’m currently learning mobile programming.<br>⚡ Love games, motorcycles and dogs.
 
 
 ## 🌐 Socials:
